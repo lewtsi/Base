@@ -1,10 +1,11 @@
-本项目是为了学习基础知识并熟悉更多的git操作而建立的。
-主要包括数据结构、C++编程等
+本项目是为了学习基础知识并熟悉更多的git和doxgen操作而建立的。
+主要包括MAKEFILE、数据结构、C++编程等
 
 数据结构 Data Structure
 	<文件名以ds开头，函数名以ds开头>
 
 参考：
 
-1、数据结构-技术教程 http://www.bccn.net/article/kfyy/sjjg/
+1、Makefile编写入门：http://os.51cto.com/art/200806/75991.htm
+2、数据结构-技术教程 http://www.bccn.net/article/kfyy/sjjg/
 
